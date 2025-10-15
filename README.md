@@ -4,8 +4,6 @@
 
 <div align="center">
 
-### 📊 GitHub Analytics
-
 <a href="https://github.com/FeijiangHan">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FeijiangHan&show_icons=true&theme=tokyonight&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide=issues&hide_border=true&rank_icon=github&custom_title=Feijiang%20Han%27s%20GitHub%20Stats" />
 </a>
@@ -14,5 +12,3 @@
 </a>
 
 </div>
-
-[![FeijiangHan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeijiangHan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
