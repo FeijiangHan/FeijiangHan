@@ -12,5 +12,5 @@
 </div>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/feijianghan/count.svg" alt="visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=feijianghan&label=Visitors&color=0e75b6&style=flat" alt="visitors" />
 </p>
