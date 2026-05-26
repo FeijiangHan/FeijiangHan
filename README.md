@@ -1,8 +1,4 @@
-🌐 [Personal Website](https://feijianghan.com) | Research, publications, and updates  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=feijianghan&label=Visitors&color=0e75b6&style=flat" alt="visitors" />
-</p>
+🌐 [Personal Website](https://feijianghan.com)
 
 <div align="center">
 
@@ -14,3 +10,8 @@
 </a>
 
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FeijiangHan&label=Visitors&color=0e75b6&style=flat" alt="visitors" />
+  <img src="https://img.shields.io/github/stars/FeijiangHan?affiliations=OWNER&label=GitHub%20Stars&style=flat&color=yellow" alt="GitHub stars" />
+</p>
