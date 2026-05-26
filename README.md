@@ -1,5 +1,8 @@
-- 💼 [LinkedIn](https://www.linkedin.com/in/feijianghan/) | Professional network  
-- 🌐 [Personal Website](https://feijianghan.com) | Research, publications, and updates  
+🌐 [Personal Website](https://feijianghan.com) | Research, publications, and updates  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=feijianghan&label=Visitors&color=0e75b6&style=flat" alt="visitors" />
+</p>
 
 <div align="center">
 
