@@ -12,6 +12,5 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FeijiangHan&label=Visitors&color=0e75b6&style=flat" alt="visitors" />
-  <img src="https://img.shields.io/github/stars/FeijiangHan?affiliations=OWNER&label=GitHub%20Stars&style=flat&color=yellow" alt="GitHub stars" />
+  <img src="https://profile-counter.glitch.me/feijianghan/count.svg" alt="visitor counter" />
 </p>
